@@ -7,24 +7,19 @@ The project titled "India General Election Results Analysis 2024" is a comprehen
 The domain of the project is Election Analytics and Political Data Analysis. It focuses on understanding voting patterns, seat allocations, and party performances at both state and national levels during the Indian General Elections.
 
 ## Function:
-The function of the project is to:
-
 - Analyze and visualize electoral results.
 - Provide insights on party performance across states and constituencies.
 - Help stakeholders (political analysts, researchers, policymakers) make informed decisions based on the data.
   
 ## Problem Statement:
-The main problem this project addresses is:
-
 - How to analyze the vast and complex dataset of the Indian General Elections 2024 efficiently?
 - Which party alliances (NDA, I.N.D.I.A, or OTHER) performed better overall and in specific states?
 - What are the key factors influencing winning trends across constituencies?
 - How are votes distributed among EVM and postal categories for individual constituencies and candidates?
   
 ## Tools and Approach:
-- Tools:
-MySQL: For data storage, retrieval, and analysis of election results.
-SQL Queries: For writing complex queries to extract meaningful insights from the data.
+- MySQL: For data storage, retrieval, and analysis of election results.
+- SQL Queries: For writing complex queries to extract meaningful insights from the data.
 ## Data Tables Used:
 partywise_results: Party-level election results.
 constituencywise_results: Constituency-level results.
@@ -85,7 +80,7 @@ What We Have Learned:
 ## Data-Driven Decision Making:
 
 Election data provides immense potential for extracting insights that influence political strategies and policies.
-- Importance of Alliances:
+## Importance of Alliances:
 
 Alliances significantly affect the outcomes, as seen from the dominance of NDA and I.N.D.I.A in various regions.
 Vote Distribution Patterns:
