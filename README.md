@@ -21,10 +21,10 @@ The domain of the project is Election Analytics and Political Data Analysis. It 
 - MySQL: For data storage, retrieval, and analysis of election results.
 - SQL Queries: For writing complex queries to extract meaningful insights from the data.
 ## Data Tables Used:
-partywise_results: Party-level election results.
-constituencywise_results: Constituency-level results.
-statewise_results: State-level mapping of constituencies.
-constituencywise_details: Detailed vote distribution data.
+- partywise_results: Party-level election results.
+- constituencywise_results: Constituency-level results.
+- statewise_results: State-level mapping of constituencies.
+- constituencywise_details: Detailed vote distribution data.
 ## Approach:
 - Data Cleaning and Structuring:
 
@@ -79,16 +79,16 @@ Regional parties need to focus on constituencies where they have strong support 
 What We Have Learned:
 ## Data-Driven Decision Making:
 
-Election data provides immense potential for extracting insights that influence political strategies and policies.
+- Election data provides immense potential for extracting insights that influence political strategies and policies.
 ## Importance of Alliances:
 
-Alliances significantly affect the outcomes, as seen from the dominance of NDA and I.N.D.I.A in various regions.
+- Alliances significantly affect the outcomes, as seen from the dominance of NDA and I.N.D.I.A in various regions.
 Vote Distribution Patterns:
 
-Understanding EVM vs. postal vote patterns can help in identifying gaps in voter outreach programs.
+- Understanding EVM vs. postal vote patterns can help in identifying gaps in voter outreach programs.
 Role of Margins and Runner-Ups:
 
-Analyzing vote margins can indicate how competitive an election was, helping parties better allocate resources.
+- Analyzing vote margins can indicate how competitive an election was, helping parties better allocate resources.
 State and Regional Importance:
 
-States like Uttar Pradesh, Maharashtra, and Andhra Pradesh are critical battlegrounds and influence national results.
+- States like Uttar Pradesh, Maharashtra, and Andhra Pradesh are critical battlegrounds and influence national results.
